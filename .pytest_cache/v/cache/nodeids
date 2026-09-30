@@ -1,0 +1,12 @@
+[
+  "tests/test_api.py::test_create_scan",
+  "tests/test_api.py::test_delete_scan",
+  "tests/test_api.py::test_health",
+  "tests/test_api.py::test_list_scans",
+  "tests/test_api.py::test_login_success",
+  "tests/test_api.py::test_login_wrong_password",
+  "tests/test_api.py::test_register_duplicate_username",
+  "tests/test_api.py::test_register_user",
+  "tests/test_api.py::test_search_scans",
+  "tests/test_api.py::test_update_scan_status"
+]
